@@ -25,3 +25,4 @@
 # NOT
 
 † Bot hoşgeldin mesajıda atıyo sıkıntı olduğunda kostya#3886 ulaşabilirsiniz
+![Ekran Alıntısı](https://user-images.githubusercontent.com/96336034/151656494-4898100a-9786-4b4d-a3ca-9a9d901c3a92.PNG)
