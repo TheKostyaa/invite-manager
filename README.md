@@ -10,6 +10,8 @@
 
 † Daha sonra src klasörünün içindeki configs klasörünün içine gir settings.json ve config.json dosyalarının içindeki bilgileri doldur.
 
+† src klasörünün içindeki events klasörüsünün içine gir guilmemberadd dosyalarında ordaki hg mesajinin başında sunucu adını yazmalısınız
+
 † Sonra klasörün içerisinde bir powershell ya da cmd penceresi aç.
 
 † npm install yazarak tüm modülleri kur.
