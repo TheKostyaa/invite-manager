@@ -4,8 +4,6 @@
 
 † Daha sonra bir MongoDB hesabı oluştur ve connection linki al.
 
-† Eğer bunu yapmayı bilmiyorsan buraya tıklayarak medium.com üzerinde yazdığım yazıyı inceleyebilirsin.
-
 † Bu projeyi zip halinde indir.
 
 † Herhangi bir klasöre zipi çıkart.
