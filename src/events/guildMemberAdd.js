@@ -63,11 +63,11 @@ Tagımızı "${valentinTag}" alarak bize destek olup sunucu içerisinde ayrıcal
         joinChannel.send(`${emojiCheck} ${member} Kişisi ${invite.inviter} kullanıcısının daveti ile katıldı! (Davet sayısı: \`${total}\`)`)
         joinleaveChannel.send(`${emojiCheck} ${member} Kişisi ${invite.inviter} kullanıcısının daveti ile katıldı! (Davet sayısı: \`${total}\`)`)
         welcomeChannel.send(`
-${emojiTag} 1001 e hoş geldin ${member} (\`${member.id}\`)! Hesabın ${hesabınxtarihindeolusturulmus} tarihinde oluşturulmuş.
+${emojiTag} Wia#1965 e hoş geldin ${member} (\`${member.id}\`)! Hesabın ${hesabınxtarihindeolusturulmus} tarihinde oluşturulmuş.
 
 Kayıt olmak için "V.Confirmed" odalarından birisine giriş yapıp <@&${yetkiRegister}> rolündeki yetlililere ses teyit vermelisin. Seninle beraber ${saitoratotalmember} kişi olduk! Hakkımızda bilgi edinebilmek için yukarıdaki hazırlamış olduğumuz kanallara göz atabilirsin.
 
-Tagımızı "${valentinTag}" alarak bize destek olup sunucu içerisinde ayrıcalık ve avantaj kazanabilirsin!
+Tagımızı "```wia - x - #1965``" alarak bize destek olup sunucu içerisinde ayrıcalık ve avantaj kazanabilirsin!
 
 ${invite.inviter} Kullanıcısının ${total}. Daveti ile sunucumuza giriş yaptın. Etkinlik rollerini almayı unutma. İyi eğlenceler! ${emojiCheck}
 `);
@@ -81,11 +81,11 @@ ${invite.inviter} Kullanıcısının ${total}. Daveti ile sunucumuza giriş yapt
         joinChannel.send(`${emojiCheck} ${member} Kişisi ${invite.inviter} kullanıcısının daveti ile katıldı! (Davet sayısı: \`${total}\`)`)
         joinleaveChannel.send(`${emojiCheck} ${member} Kişisi ${invite.inviter} kullanıcısının daveti ile katıldı! (Davet sayısı: \`${total}\`)`)
         welcomeChannel.send(`
-${emojiTag} 1001 e hoş geldin ${member} (\`${member.id}\`)! Hesabın ${hesabınxtarihindeolusturulmus} tarihinde oluşturulmuş.
+${emojiTag} Wia#1965 e hoş geldin ${member} (\`${member.id}\`)! Hesabın ${hesabınxtarihindeolusturulmus} tarihinde oluşturulmuş.
 
 Kayıt olmak için "V.Confirmed" odalarından birisine giriş yapıp <@&${yetkiRegister}> rolündeki yetlililere ses teyit vermelisin. Seninle beraber ${saitoratotalmember} kişi olduk! Hakkımızda bilgi edinebilmek için yukarıdaki hazırlamış olduğumuz kanallara göz atabilirsin.
 
-Tagımızı "${valentinTag}" alarak bize destek olup sunucu içerisinde ayrıcalık ve avantaj kazanabilirsin!
+Tagımızı "```wia - x - #1965``" alarak bize destek olup sunucu içerisinde ayrıcalık ve avantaj kazanabilirsin!
 
 ${invite.inviter} Kullanıcısının ${total}. Daveti ile sunucumuza giriş yaptın. Etkinlik rollerini almayı unutma. İyi eğlenceler! ${emojiCheck}
     `);
