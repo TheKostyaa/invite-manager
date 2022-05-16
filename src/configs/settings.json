@@ -1,6 +1,6 @@
 {
-  "token": "",
+  "token": "OTc1ODcxMzg4MTY4NjIyMTQy.G_Fpqj.r8lGu-gi_ATF-8a0nxzgwXV4ZArZ1W0Uw0Aay4",
   "prefix": ["."],
-  "mongoUrl": "",
-  "owners": [""]
+  "mongoUrl": "mongodb+srv://rolex:rolex@cluster0.x6ekz.mongodb.net/rolexdatabase?retryWrites=true&w=majority",
+  "owners": ["130350208608370689"]
 }
